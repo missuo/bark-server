@@ -25,7 +25,7 @@ type PushMessage struct {
 
 const (
 	topic  = "com.missuo.bark"
-	keyID  = "J2P2J9V4XF"
+	keyID  = "BVNNNY68A4"
 	teamID = "KJ3BSSJ8PK"
 )
 
